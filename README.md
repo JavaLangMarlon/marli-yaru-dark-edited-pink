@@ -14,3 +14,11 @@ You should have installed the "User-Themes" extension in gnome-tweaks.
 In my case, it works fine putting this directory into `~/.themes`
 
 Then you should be able to pick it in "Appearance" next to "Applications" and "Shell".  
+
+## Preview
+
+![Preview Image](https://github.com/JavaLangMarlon/marli-yaru-dark-edited-pink/blob/main/preview.jpg?raw=true)
+
+This is my desktop environment as of March 2021, using a digital art wallpaper i found here: https://free4kwallpapers.com/uploads/originals/2020/01/23/digital-art-k-wallpaper.jpg
+
+I also used `dconf-editor` to make my docker bar transparent.
