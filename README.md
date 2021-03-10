@@ -4,6 +4,10 @@
 
 Yes, I am still looking for a better name
 
+## Prerequisites
+
+I developed this for myself (Ubuntu 20.04/Gnome 3.36). It may be possible that it also works for other versions.
+
 ## Installation
 
 You should have installed the "User-Themes" extension in gnome-tweaks.
