@@ -17,7 +17,7 @@ Then you should be able to pick it in "Appearance" next to "Applications" and "S
 
 ## Preview
 
-![Preview Image](https://github.com/JavaLangMarlon/marli-yaru-dark-edited-pink/blob/main/preview.jpg?raw=true)
+![Preview Image](https://github.com/JavaLangMarlon/marli-yaru-dark-edited-pink/blob/main/preview.png?raw=true)
 
 This is my desktop environment as of March 2021, using a digital art wallpaper i found here: https://free4kwallpapers.com/uploads/originals/2020/01/23/digital-art-k-wallpaper.jpg
 
